@@ -1,0 +1,4 @@
+C:\Users\Admin\Documents\GitHub\FordonsRegister-uppgift-arv\obj\Debug\net7.0\FordonsRegister-uppgift-arv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\FordonsRegister-uppgift-arv\obj\Debug\net7.0\FordonsRegister-uppgift-arv.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\FordonsRegister-uppgift-arv\obj\Debug\net7.0\FordonsRegister-uppgift-arv.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\FordonsRegister-uppgift-arv\obj\Debug\net7.0\FordonsRegister-uppgift-arv.csproj.CoreCompileInputs.cache
